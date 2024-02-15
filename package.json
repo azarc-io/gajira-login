@@ -14,9 +14,10 @@
   "author": "Atlassian <github@atlassian.com>",
   "license": "ISC",
   "dependencies": {
-    "husky": "^8.0.2",
+    "husky": "^8.0.3",
     "lodash": "^4.17.21",
     "moment": "^2.29.4",
+    "ncc": "^0.3.6",
     "yaml": "^2.1.3",
     "yargs": "^17.6.2"
   },
